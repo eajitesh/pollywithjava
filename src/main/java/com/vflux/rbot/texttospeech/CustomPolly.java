@@ -23,8 +23,8 @@ public class CustomPolly {
 	private AmazonPolly amazonPolly;
 	
 	public CustomPolly(Region region) {
-		BasicAWSCredentials awsCredentials = new BasicAWSCredentials("AKIAJHGKJ3GKOLSABU4Q",
-				"LPjoQe3Qxr3R58Lm4ysBe21ugFbt7Ai4W3GACTky");
+		BasicAWSCredentials awsCredentials = new BasicAWSCredentials("BNIAWCGKJ3GKOWAQAB34Z",
+				"PgRe3Qxr3R58hsdgysBe21sksjfdfh6t7Ai4W4GACTky");
 		//
 		// Create an Amazon Polly client in a specific region
 		//
